@@ -14,6 +14,7 @@ namespace WebAppCloud.Models
             base.OnModelCreating(builder);
             // Customize the ASP.NET Identity model and override the defaults if needed.
             // For example, you can rename the ASP.NET Identity table names and more.
+			//comment
             // Add your customizations after calling base.OnModelCreating(builder);
         }
     }
