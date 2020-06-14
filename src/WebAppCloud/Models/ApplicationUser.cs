@@ -10,5 +10,6 @@ namespace WebAppCloud.Models
     public class ApplicationUser : IdentityUser
     {
 		int id;
+		String name;
     }
 }
